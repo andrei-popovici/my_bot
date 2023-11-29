@@ -130,6 +130,8 @@
             <origin xyz="0 0 0" rpy="0 0 0"/>
         </xacro:inertial_sphere>
     </link>
+
+    <!-- asta e un mesaj ca sa testez daca am inteles cum merge tot gitul -->
     
     
 </robot>
